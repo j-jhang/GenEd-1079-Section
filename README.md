@@ -1,2 +1,3 @@
 # GenEd-1079-Section
-Janice's Wednesday Sections
+Files for Janice's Wednesday Sections
+Fall 2026
